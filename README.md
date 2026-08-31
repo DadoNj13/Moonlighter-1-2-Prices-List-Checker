@@ -5,7 +5,7 @@ A small, fast price reference for **Moonlighter** and **Moonlighter 2**.
 ![Static site](https://img.shields.io/badge/static-HTML%20%2F%20CSS%20%2F%20JS-4f8f72?style=flat-square)
 ![GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-24292f?style=flat-square)
 
-I made this because I wanted a quicker way to check prices while playing. Most of what you sell comes from items and relics you bring back from dungeons, so the site is built around a simple loop: **search for an item, check the recommended price, set the correct selling price without worrying about overpricing or underpricing it, mark items you’ve already priced, export your item checks for future sessions, import when you come back and get back to playing and progressing.**
+I made this to check prices faster while playing. **Search an item, see the recommended price, avoid overpricing or underpricing, mark items you’ve already priced, export your item checks, import them later, and get back to playing.**
 
 
 ## Features
