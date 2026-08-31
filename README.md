@@ -1,4 +1,4 @@
-# Moonlighter Price Guide
+# Moonlighter 1&2 Prices List Checker
 
 A small, fast price reference for **Moonlighter** and **Moonlighter 2**.
 
